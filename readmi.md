@@ -10,3 +10,5 @@ git log
 
  git config --global user.email "josearmando@gmail.com"
  git config --global user.name "josearmando"
+
+ git branch
